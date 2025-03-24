@@ -54,6 +54,8 @@ The **accelerometer** measures linear acceleration in **X, Y, Z axes**, while th
 ---
 
 ## **CIRCUIT DIAGRAM:**  
+![1](https://github.com/user-attachments/assets/0a71d221-1b85-4519-9a2a-b4b9c3a5bf1d)
+
 ### **Connections:**  
 
 | MPU6050 Pin | Raspberry Pi Pico Pin |
@@ -116,6 +118,8 @@ while True:
 ---
 
 ## **OUTPUT:**  
+Accel: X=0.02g, Y=-0.01g, Z=1.00g | Gyro: X=0.05°/s, Y=-0.02°/s, Z=0.01°/s
+Accel: X=0.03g, Y=-0.02g, Z=1.01g | Gyro: X=0.06°/s, Y=-0.03°/s, Z=0.02°/s
 ![1](https://github.com/user-attachments/assets/f9af978c-77cc-4b67-81cf-a0cf115b4c9d)
 ![2](https://github.com/user-attachments/assets/c2446247-cbe3-403f-9c3d-4139c36032ac)
 ![3](https://github.com/user-attachments/assets/bfd0dcdd-f129-41ea-8f34-71dfdf34ee3f)
