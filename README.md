@@ -54,7 +54,8 @@ The **accelerometer** measures linear acceleration in **X, Y, Z axes**, while th
 ---
 
 ## **CIRCUIT DIAGRAM:**  
-![1](https://github.com/user-attachments/assets/0a71d221-1b85-4519-9a2a-b4b9c3a5bf1d)
+![1](https://github.com/user-attachments/assets/03bca80b-8232-4fa0-add9-54ef32487e86)
+
 
 ### **Connections:**  
 
